@@ -1,0 +1,15 @@
+# ignore the DS_Store
+.DS_Store
+
+# exclude the model train notebook
+Model Train.ipynb
+
+# exclude the data, model, log
+data/*
+model/*
+log/*
+output/*
+sample_submission.csv
+
+#exclude the ipynb_checkpoints
+.ipynb_checkpoints/*
